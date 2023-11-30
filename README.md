@@ -9,3 +9,5 @@
     <li> HashTables.cpp - Review for hashtables
     <li> huffman_encoding.cpp - Review for huffman encoding
 </ul>
+
+<h3> Note: If you need a refresher on the quiz 3 content, (Trees and Heaps), refer to my previous review session material here: https://github.com/nicolasSaid/ETWeek10</h3>
