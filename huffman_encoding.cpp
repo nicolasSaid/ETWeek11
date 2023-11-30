@@ -13,5 +13,5 @@
  *      Note: Huffman trees are not unique, so if your tree looks differnt than someone elses, don't worry!
  * 
  * 4. After creating a Huffman Tree, how can we convert our string into binary?
- *      Try and convert Banana into binary!
+ *      Try and convert "Banana" into binary!
  */
